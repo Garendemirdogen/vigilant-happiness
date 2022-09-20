@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS gallery_app;
+
+CREATE DATABASE gallery_app;
